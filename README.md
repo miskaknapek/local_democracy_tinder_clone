@@ -28,4 +28,10 @@ If you want to modify things, eg adapt things to German, then you'll find some t
 ( The other files in the js library, the different jquery files, are libraries for screen interaction, that someone else has written, that I've not modified ).
 
 
+### Credits 
+Concept : Magnus Eriksson at RISE Interactive, 
+CSS styling : Martin Törnros at RISE Interactive, 
+CODE and some design : Miska Knapek at RISE Interactive.
+
+
 ### Fin ___
