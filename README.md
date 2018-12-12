@@ -31,7 +31,7 @@ If you want to modify things, eg adapt things to German, then you'll find some t
 ### Credits 
 Concept : Magnus Eriksson at RISE Interactive //
 CSS styling : Martin Törnros at RISE Interactive // 
-CODE and some design : Miska Knapek at RISE Interactive.
+Code and some design : Miska Knapek at RISE Interactive.
  
 
 ### Fin ___
