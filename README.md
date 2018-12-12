@@ -28,9 +28,4 @@ If you want to modify things, eg adapt things to German, then you'll find some t
 ( The other files in the js library, the different jquery files, are libraries for screen interaction, that someone else has written, that I've not modified ).
 
 
-### A slightly different ( not so tall ) css layout alternative ___
-Maybe one addition thing that might be useful to know, is that I've included a css file, from a different version of this, which is a bit less vertically tall, at the expense of a partly transparent text background. If you want to try this, then rename style.css to something else, and rename the style_BORAS_5.css to style.css. Then reload the browser enough times that the browser uses the other css file. ( Sometimes browsers cache css files for a long time and some old css file is shown for a long time ). 
-
-
-
 ### Fin ___
